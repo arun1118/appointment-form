@@ -1,4 +1,0 @@
-cluster username : arun-admin
-cluster password : mernProj018
-database name : appointment
-collection name : users
